@@ -1,1 +1,1 @@
-# trial_site
+# The test site I've been practicing using jango
