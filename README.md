@@ -1,1 +1,1 @@
-# The test site I've been practicing using jango
+# The test site I've been practicing using Django
